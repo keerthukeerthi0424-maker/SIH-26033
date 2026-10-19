@@ -95,27 +95,35 @@ Architecture Flow:
 
 2. Potential Challenges and Risks
   
-  1. Low digital literacy among rural farming communities.
+   1. Low digital literacy among rural farming communities.
 
-  2. Perishable inventory management and cold-chain bottlenecks.
+   2. Perishable inventory management and cold-chain bottlenecks.
 
-  3. Last-mile delivery delays during peak weather fluctuations.
+   3. Last-mile delivery delays during peak weather fluctuations.
+
 3. Strategies for Overcoming These Challenges
  
-  1. Voice-First & Vernacular UI: Implementing IVR (Interactive Voice Response) and multi-lingual voice-to-text inputs to ease platform navigation for non-tech-savvy farmers.
+   1. Voice-First & Vernacular UI: Implementing IVR (Interactive Voice Response) and multi-lingual voice-to-text inputs to ease platform navigation for non-tech-savvy farmers.
 
-  2. Hub-and-Spoke Model: Partnering with local rural Kirana stores or existing agricultural cooperative warehouses to act as collection points, minimizing immediate cold-storage dependencies.
+   2. Hub-and-Spoke Model: Partnering with local rural Kirana stores or existing agricultural cooperative warehouses to act as collection points, minimizing immediate cold-storage dependencies.
      
 ## Impact and Benefits:
+
 1. Target Audience Impact
-  1. Small & Marginal Farmers / FPOs: Realize 20% to 35% higher net farm-gate income by cutting out multiple distributor margins and reducing distress sales during seasonal gluts.
-  2. Consumers & Institutional Buyers: Get fresh farm produce with guaranteed origin traceability at 10% to 20% lower purchase prices than conventional retail supermarkets.
-  3. Local Rural Transporters: Higher earnings via reduced deadhead (empty return) trips through reverse-logistics matching (transporting fertilizers/seeds back to rural hubs).
+  
+   1. Small & Marginal Farmers / FPOs: Realize 20% to 35% higher net farm-gate income by cutting out multiple distributor margins and reducing distress sales during seasonal gluts.
+ 
+   2. Consumers & Institutional Buyers: Get fresh farm produce with guaranteed origin traceability at 10% to 20% lower purchase prices than conventional retail supermarkets.
+  
+   3. Local Rural Transporters: Higher earnings via reduced deadhead (empty return) trips through reverse-logistics matching (transporting fertilizers/seeds back to rural hubs).
 
 2. Benefits of the solution:
-   1. social Impact: Financial empowerment of rural FPOs & women SHGs. Prevents distress migration emissions vy creating rural jobs.
-   2. Economic Impact: Reduction of supply chain margins from 50% to <5%. Predictable income with transparent pricing
-   3. Environment: Reduced food waste in perishables. Minimized CO2 via route optimization
+
+    1. social Impact: Financial empowerment of rural FPOs & women SHGs. Prevents distress migration emissions vy creating rural jobs.
+
+    2. Economic Impact: Reduction of supply chain margins from 50% to <5%. Predictable income with transparent pricing
+
+    3. Environment: Reduced food waste in perishables. Minimized CO2 via route optimization
 
 ## Research and References
   1. Government Frameworks: Ministry of Consumer Affairs, Food & Public Distribution guidelines on agricultural supply chain transparency.
