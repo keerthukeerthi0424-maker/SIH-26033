@@ -48,9 +48,9 @@ Quality & Pricing: Enables AI/image-based quality grading with real-time dynamic
  
    1. End-to-End Platform: Integrates AI demand forecasting, route planning, and automated grading in one place.  
 
-  2. FPO Focus: Custom dashboards for FPOs to aggregate crops and negotiate better contracts.
+   2. FPO Focus: Custom dashboards for FPOs to aggregate crops and negotiate better contracts.
 
-  3. Traceability: Blockchain-based origin tracking for high-value organic goods.
+   3. Traceability: Blockchain-based origin tracking for high-value organic goods.
     
 
 ## Technical Approach
